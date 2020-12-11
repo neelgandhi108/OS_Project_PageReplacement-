@@ -11,3 +11,9 @@ Types of Page Replacement Algorithms Implemented
 ● Optimal Page Replacement Algorithm
 
 ● Random Page Replacement Algorithm
+
+Team No- 41
+Contributors
+Neel Gandhi-18BIT078
+Jay Patel-18BIT116
+Rajdeepsinh Sisodiya-18BIT087
